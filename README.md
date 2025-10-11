@@ -1,4 +1,3 @@
-![Banniere_SOZ_OSS](https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server/raw/oss/docs/images/banner-soz-oss.png)
 
 # Assets for FiveM
 
